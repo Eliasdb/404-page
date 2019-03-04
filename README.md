@@ -1,1 +1,1 @@
-# 404
+https://eliasdb.github.io/404/404.html
